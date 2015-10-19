@@ -1,0 +1,21 @@
+﻿{
+    "PluginInfo": {
+        "Name": "FFXIVAPP.Plugin.Translator",
+        "Version": "1.0.0.0",
+        "Files": [
+            {
+                "Name": "FFXIVAPP.Plugin.Translator.dll",
+                "Location": ""
+            },
+            {
+                "Name": "Logo.png",
+                "Location": ""
+            },
+            {
+                "Name": "PluginInfo.xml",
+                "Location": ""
+            }
+        ],
+		"SourceURI": "https://github.com/Yaguar666/ffxivapp-plugin-translator/raw/master/distribution/"
+    }
+}

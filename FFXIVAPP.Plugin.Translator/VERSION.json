@@ -1,0 +1,21 @@
+﻿{
+    "PluginInfo": {
+        "Name": "FFXIVAPP.Plugin.Translator",
+        "Version": "3.0.5673.14425",
+        "Files": [
+            {
+                "Name": "FFXIVAPP.Plugin.Translator.dll",
+                "Location": ""
+            },
+            {
+                "Name": "Logo.png",
+                "Location": ""
+            },
+            {
+                "Name": "PluginInfo.xml",
+                "Location": ""
+            }
+        ],
+		"SourceURI": "https://github.com/Icehunter/ffxivapp-plugin-Translator/raw/master/distribution/"
+    }
+}
